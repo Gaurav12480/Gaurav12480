@@ -22,7 +22,7 @@
 ## 💻 Tech Stack & Skills
 ![Kotlin](https://img.shields.io/badge/-Kotlin-339933?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![DSA](https://img.shields.io/badge/-DSA-blue?style=for-the-badge)
@@ -31,7 +31,7 @@
 
 ## 📌 Projects
 - **Calculator App** – A fully functional calculator app built in Kotlin with clean UI.  
-- **Seven Wonders App** – Learn to solve the Rubik's Cube in 7 steps, interactive UI in Jetpack Compose.
+- **Seven Wonders App** – An Android app that displays the Seven Wonders of the World in alphabetical order, with interactive navigation.
 
 ---
 
