@@ -32,10 +32,6 @@
 ## 📌 Projects
 - **Calculator App** – A fully functional calculator app built in Kotlin with clean UI.  
 - **Seven Wonders App** – An Android app that displays the Seven Wonders of the World in alphabetical order, with interactive navigation.
-
----
-
-## 📊 GitHub Stats
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurav12480&show_icons=true&theme=radical)  
+- 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav12480&layout=compact&theme=radical)
 
